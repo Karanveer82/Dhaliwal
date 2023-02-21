@@ -23,7 +23,7 @@
 23. Data mining programs break down patterns and connections in data based on what information users request or provide.
 24. Social media companies use data mining techniques to commodify their users in order to generate profit.
 25. This use of data mining has come under criticism lately as users are often unaware of the data mining happening with their personal information, especially when it is used to influence preferences.
-26. Data mining programs analyze relationships and patterns in data based on what users request. For example, a company can use data mining software to create classes of information. 
+26. Data mining programs analyze relationships and patterns in data based on what users request.For example, a company can use data mining software to create classes of information. 
 27. To illustrate, imagine a restaurant wants to use data mining to determine when it should offer certain specials.
 28. It looks at the information it has collected and creates classes based on when customers visit and what they order.
 29. In other cases, data miners find clusters of information based on logical relationships or look at associations and sequential patterns to draw conclusions about trends in consumer behavior.
@@ -48,3 +48,4 @@
 48. This model can be fit to give threshold values to determine a model's accuracy.
 49. Predictive analysis strives to leverage historical information to build graphical or mathematical models to forecast future outcomes. 
 50. Overlapping with regression analysis, this data mining technique aims at supporting an unknown figure in the future based on current data on hand.
+51. Data mining ensures a company is collecting and analyzing reliable data. It is often a more rigid, structured process that formally identifies a problem, gathers data related to the problem, and strives to formulate a solution.
