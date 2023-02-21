@@ -1,3 +1,4 @@
+# Data Warehousing 
 1. Data Warehouse is a relational database management system (RDBMS) construct to meet the requirement of transaction processing systems. 
 2. It can be loosely described as any centralized data repository which can be queried for business benefits. It is a database that stores information oriented to satisfy decision-making requests. 
 3. It is a group of decision support technologies, targets to enabling the knowledge worker (executive, manager, and analyst) to make superior and higher decisions. 
